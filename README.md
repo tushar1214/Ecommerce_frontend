@@ -26,3 +26,6 @@ Technical Details :
 * MongoDB Atlas cloud database
 * Email using Nodemailer - using GMail SMTP system
 * Payments using Stripe - PaymentIntent based custom flow
+
+Screenshots :
+![image alt](![ScreenShot](screenshot.jpg))
