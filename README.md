@@ -28,4 +28,4 @@ Technical Details :
 * Payments using Stripe - PaymentIntent based custom flow
 
 Screenshots :
-![ScreenShot](screenshot.jpg)
+![ScreenShot](SS1.png)
